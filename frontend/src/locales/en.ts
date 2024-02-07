@@ -73,6 +73,8 @@ export default {
     "Administrative role: Grant roles to other addresses, Create events, Change secret phrase, Mintlock",
   RBAC_COLLABORATOR_DESC:
     "Collaborator role: Create events, Change secret phrase, Mintlock",
+  // Transfer Owner
+  TRANSFER_OWNER: "Transfer Organizer",
   // Event index
   CREATE_NEW_EVENT: "Create new event",
   // Event new

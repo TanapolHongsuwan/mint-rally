@@ -73,6 +73,8 @@ export default {
     "管理者権限: 他のアドレスに対して権限付与、イベント作成、あいことば変更、ミントロック",
   RBAC_COLLABORATOR_DESC:
     "コラボレーター権限: イベント作成、あいことば変更、ミントロック",
+  // Transfer Owner
+  TRANSFER_OWNER: "権限を譲与する",
   // Event index
   CREATE_NEW_EVENT: "イベントを作成",
   // Event new
